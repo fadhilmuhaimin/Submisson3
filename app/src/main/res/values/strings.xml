@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">AutoMovie</string>
+    <string name="call">MOVIE</string>
+    <string name="chat">TV</string>
+    <string name="contact">Contact</string>
+    <string name="desc">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string-array name="data_name">
+        <item>Avengers: Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Aquaman</item>
+        <item>A Star Is Born</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Venom</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Deadpool 2</item>
+        <item>Creed II</item>
+        <item>The Mule</item>
+    </string-array>
+
+    <string-array name="name_tv">
+        <item>Arrow</item>
+        <item>Family Guy</item>
+        <item>The Flash </item>
+        <item>Gotham</item>
+        <item>Greys Anatomy</item>
+        <item>Marvels Iron Fist </item>
+        <item>Naruto Shippūden</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+        <item>The Simpsons</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>ADVENTURE | ACTION FANTASY </item>
+        <item>ACTION ADVENTUR | SCIENCE FICTION</item>
+        <item>ACTION ADVENTURE | FANTASY</item>
+        <item>DRAMA | ROMANCE</item>
+        <item>ACTION | ADVENTURE | ANIMATION </item>
+        <item>SCIENCE | FICTION | ACTION</item>
+        <item>DRAMA | MUSIC</item>
+        <item>ACTION | COMEDY | ADVENTURE</item>
+        <item>DRAMA</item>
+        <item>CRIME | DRAMA | THRILLER </item>
+    </string-array>
+
+    <string-array name="genre_tv">
+        <item>CRIME | DRAMA | MYSTERY</item>
+        <item>ANIMATION | COMEDY</item>
+        <item>DRAMA | SCI-FI | FANTASY</item>
+        <item>DRAMA | FANTASY | CRIME</item>
+        <item>DRAMA</item>
+        <item>ACTION | ADVENTURE | CRIME</item>
+        <item>ANIMATION | COMEDY | DRAMA</item>
+        <item>AKSI | PETUALANGAN |DRAMA</item>
+        <item>DRAMA | MYSTERY | SCI FI</item>
+        <item>ANIMATION | COMEDY</item>
+    </string-array>
+
+
+    <array name="data_photo">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_themule</item>
+    </array>
+
+    <array name="photo_tv">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_the_simpson</item>
+    </array>
+
+    <array name="arc_tv">
+        <item>@drawable/satu</item>
+        <item>@drawable/dua</item>
+        <item>@drawable/tiga</item>
+        <item>@drawable/empat</item>
+        <item>@drawable/lima</item>
+        <item>@drawable/enam</item>
+        <item>@drawable/tujuh</item>
+        <item>@drawable/delapan</item>
+        <item>@drawable/sembilan</item>
+        <item>@drawable/sepuluh</item>
+    </array>
+
+    <string-array name="data_details">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm s half-human, half Atlantean brother and true heir to the throne.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with  struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson Kingpin Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercury s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>Earl Stone, a man in his 80s, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he’s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard charging DEA agent Colin Bates.</item>
+    </string-array>
+
+    <string-array name="details_tv">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, hes not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta human" who was created in the wake of the accelerator explosion  and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become The Flash.</item>
+        <item>Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds most iconic villains? And what circumstances created them  the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.</item>
+        <item>Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny Featured Crew</item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item>Twenty four year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.Featured Crew</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their 67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 29m</item>
+        <item>1h 54m</item>
+        <item>2h 24m</item>
+        <item>2h 15m</item>
+        <item>1h 57m</item>
+        <item>1h 52m</item>
+        <item>2h 15m</item>
+        <item>2h 1m</item>
+        <item>2h 10m</item>
+        <item>1h 57m</item>
+
+    </string-array>
+
+    <string-array name="runtime_tv">
+        <item>42m</item>
+        <item>22m</item>
+        <item>44m</item>
+        <item>43m,60m</item>
+        <item>43m</item>
+        <item>55m</item>
+        <item>22m</item>
+        <item>42m</item>
+        <item>45m</item>
+        <item>22m</item>
+    </string-array>
+    <string-array name="data_budget">
+        <item>$300,000,000</item>
+        <item>$135,000,000</item>
+        <item>$160,000,000</item>
+        <item>$36,000,000</item>
+        <item>$90,000,000</item>
+        <item>$116,000,000</item>
+        <item>$52,000,000</item>
+        <item>$110,000,000</item>
+        <item>$50,000,000</item>
+        <item>$50,000,000</item>
+    </string-array>
+
+    <string-array name="languange_tv">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="type_tv">
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+        <item>Scripted</item>
+    </string-array>
+    <string-array name="data_revenue">
+        <item>$2,046,239,637</item>
+        <item>$2,046,239,637</item>
+        <item>$1,143,689,193</item>
+        <item>$433,888,866</item>
+        <item>$375,450,417</item>
+        <item>$855,013,954</item>
+        <item>$835,137,710</item>
+        <item>$741,547,413</item>
+        <item>$137,944,327</item>
+        <item>$171,304,407</item>
+    </string-array>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+    <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+    <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+    <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+    <style name="TextContent" parent="@style/TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--<item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>-->
+        <!--<item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>-->
+    </style>
+
+    <style name="TextContent.small">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+    </style>
+
+    <style name="TextContent.small.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_movie">About Movie</string>
+    <string name="runtime">Runtime :</string>
+    <string name="languange">Languange :</string>
+    <string name="type">Type :</string>
+    <string name="give_your_rating">Give Your Rating</string>
+    <string name="revenue">Revenue :</string>
+    <string name="budget">Budget :</string>
+    <string name="change_language_settings">Change Languange Setting</string>
+
+    <!--<style name="TextContent.Subtitle">-->
+    <!--<item name="android:textColor">@color/colorSubtitle</item>-->
+    <!--<item name="android:textSize">12sp</item>-->
+    <!--</style>-->
+
+
+</resources>
