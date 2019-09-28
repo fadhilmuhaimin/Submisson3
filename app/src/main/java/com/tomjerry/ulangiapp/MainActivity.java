@@ -14,6 +14,8 @@ import android.view.MenuItem;
 import com.tomjerry.ulangiapp.Fragment.ListFragment;
 import com.tomjerry.ulangiapp.Fragment.TvFragment;
 
+//Created By Tomjerry
+
 public class MainActivity extends AppCompatActivity {
     ListFragment listFragment;
     TvFragment tvFragment;
